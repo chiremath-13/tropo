@@ -1,0 +1,36 @@
+.a{
+    display:flex;
+    flex-direction: column;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    align-items: center;
+    border-bottom: 3px solid rgba(0, 0, 0, 0.7);
+    background-color: white;
+}
+
+
+.a1{
+    font-size:13;
+    width:30%;
+    display:flex;
+ justify-content: center;
+}
+.a2{
+    width:30%;
+    display: flex;
+justify-content: center;
+
+}
+
+.a3{
+    width:30%;
+    color: rgba(0, 0, 0, 0.6);
+}
+.a4{
+    width:30%;
+    paddng:1px;
+}
+.a5{
+    width:30%;
+    color: rgba(0, 0, 0, 0.6);
+}
+
